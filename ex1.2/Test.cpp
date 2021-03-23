@@ -1,6 +1,6 @@
 /**
  *
- * AUTHORS: <Avigael Abitbol>
+ * AUTHORS: <Afik Peretz>
  * 
  * Date: 2021-03
  */
